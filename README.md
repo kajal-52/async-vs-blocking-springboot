@@ -54,10 +54,10 @@ The app starts on `http://localhost:9091`.
 
 Postman response from an async endpoint:
 
-![Postman response](docs/postman-response-asyncgetCustomer.png)
-![Postman response](docs/postman-response-blokingetCustomer.png)
-![Postman response](docs/postman-response-asyncread.png)
-![Postman response](docs/postman-response-blockingread.png)
+![Postman response](docs/postman-response-asyncgetCustomer.png) <br>
+![Postman response](docs/postman-response-blockingetCustomer.png)  <br>
+![Postman response](docs/postman-response-asyncread.png) <br>
+![Postman response](docs/postman-response-blockingread.png) 
 
 ## Project structure
 
